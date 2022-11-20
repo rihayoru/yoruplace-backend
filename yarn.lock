@@ -1374,10 +1374,10 @@ getopts@2.3.0:
   resolved "https://registry.yarnpkg.com/getopts/-/getopts-2.3.0.tgz#71e5593284807e03e2427449d4f6712a268666f4"
   integrity sha512-5eDf9fuSXwxBL6q5HX+dhDj+dslFGWzU5thZ9kNKUkcPtaPdatmUFKwHFrLb/uf/WpA4BHET+AX3Scl56cAjpA==
 
-git-commit-msg-linter@4.1.3:
-  version "4.1.3"
-  resolved "https://registry.yarnpkg.com/git-commit-msg-linter/-/git-commit-msg-linter-4.1.3.tgz#7892b4ba89234d14519a092ed23c00e21b9fc3e1"
-  integrity sha512-ZeTMxIpMqUvOW60HX/esY84hb/uu+raWpKbaLBaLG81qYxuL2aVrg5Fihard0anhD0MVwDWnMkLMh85XWUUqlw==
+git-commit-msg-linter@4.2.1:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/git-commit-msg-linter/-/git-commit-msg-linter-4.2.1.tgz#f2f5f743ebc3c0589acc8a32e359fb39f26ed9ec"
+  integrity sha512-4iw0N0Sdga5wWN527/Oei6wkQGuWBhUEioonaM3HcaddEP8rYQPApGvfNvCkA+spd0wo59ToK+9DgHaHu1mAqg==
   dependencies:
     chalk "^2.4.2"
     did-you-mean "^0.0.1"
